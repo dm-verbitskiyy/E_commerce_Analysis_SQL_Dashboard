@@ -1,4 +1,4 @@
-# E_commerce_Analysis_SQL_Dashboard
+# E-commerce Analysis SQL Dashboard
 Анализ Продаж в Электронной Торговле: SQL Дашборды
 
 Данное исследование было проведено с использованием Redash и SQL.
